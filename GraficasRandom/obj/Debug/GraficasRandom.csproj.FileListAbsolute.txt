@@ -1,0 +1,14 @@
+C:\Users\tickt\Downloads\GraficasRandom-master\bin\Debug\GraficasRandom.exe.config
+C:\Users\tickt\Downloads\GraficasRandom-master\bin\Debug\GraficasRandom.exe
+C:\Users\tickt\Downloads\GraficasRandom-master\bin\Debug\GraficasRandom.pdb
+C:\Users\tickt\Downloads\GraficasRandom-master\bin\Debug\MetroFramework.Design.dll
+C:\Users\tickt\Downloads\GraficasRandom-master\bin\Debug\MetroFramework.dll
+C:\Users\tickt\Downloads\GraficasRandom-master\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\tickt\Downloads\GraficasRandom-master\obj\Debug\GraficasRandom.csproj.AssemblyReference.cache
+C:\Users\tickt\Downloads\GraficasRandom-master\obj\Debug\GraficasRandom.Form1.resources
+C:\Users\tickt\Downloads\GraficasRandom-master\obj\Debug\GraficasRandom.Properties.Resources.resources
+C:\Users\tickt\Downloads\GraficasRandom-master\obj\Debug\GraficasRandom.csproj.GenerateResource.cache
+C:\Users\tickt\Downloads\GraficasRandom-master\obj\Debug\GraficasRandom.csproj.CoreCompileInputs.cache
+C:\Users\tickt\Downloads\GraficasRandom-master\obj\Debug\Graficas.9C9B0840.Up2Date
+C:\Users\tickt\Downloads\GraficasRandom-master\obj\Debug\GraficasRandom.exe
+C:\Users\tickt\Downloads\GraficasRandom-master\obj\Debug\GraficasRandom.pdb
